@@ -1804,7 +1804,7 @@ dependencies = [
 [[package]]
 name = "miden-objects"
 version = "0.13.0"
-source = "git+https://github.com/0xMiden/miden-base.git?rev=0cd80afdbd9b9d26e27341fad895063ac53eacdc#0cd80afdbd9b9d26e27341fad895063ac53eacdc"
+source = "git+https://github.com/0xMiden/miden-base.git?branch=next#0cd80afdbd9b9d26e27341fad895063ac53eacdc"
 dependencies = [
  "bech32",
  "getrandom 0.3.4",
